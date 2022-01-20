@@ -6,7 +6,7 @@ This can be used with a number of apps provided by Steve Seguin, including capti
 Due to the simplicity and generic nature of this app, this server is suitable really only for personal or private use, as published data is broadcasted to everyone connected.
 
 ## Installation
-```
+```2
 sudo apt-get update
 sudo apt-get upgrade
 sudo apt-get install nodejs -y
